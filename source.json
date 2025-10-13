@@ -1,5 +1,7 @@
 {
-  "author": "KitsuneBa",
+"author": {
+  "name": "KitsuneBa"
+},
   "name": "KitsuneBa",
   "id": "com.kitsuneba.vpm",
   "url": "https://kitsuneba.github.io/kitsuneba-listing/index.json",
