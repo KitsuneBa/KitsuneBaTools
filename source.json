@@ -2,7 +2,7 @@
   "author": "KitsuneBa",
   "name": "KitsuneBa",
   "id": "com.kitsuneba.vpm",
-  "url": "",
+  "url": "https://kitsuneba.github.io/kitsuneba-listing/index.json",
   "packages": {
     "com.kitsuneba.autoscenebackup": {
       "versions": {
