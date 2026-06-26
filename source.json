@@ -2,7 +2,7 @@
   "author": "KitsuneBa",
   "name": "KitsuneBa",
   "id": "com.kitsuneba.vpm",
-  "url": "https://kitsuneba.github.io/kitsuneba-listing/index.json",
+  "url": "https://kitsuneba.github.io/KitsuneBaTools/index.json",
   "packages": {
     "com.kitsuneba.autoscenebackup": {
       "versions": {
@@ -18,7 +18,7 @@
           },
           "type": "tool",
           "vpmDependencies": {},
-          "url": "file:///D:/Programs/UnityProjects/VRChat/Tools/KitsuneBaTools/Packages/com.kitsuneba.autoscenebackup-2025.9.28",
+          "url": "https://github.com/KitsuneBa/KitsuneBaTools/releases/tag/2025.9.28/com.kitsuneba.autoscenebackup-2025.10.12.zip",
           "repo": ""
         },
         "2025.10.12": {
