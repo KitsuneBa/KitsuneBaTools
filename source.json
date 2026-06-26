@@ -7,6 +7,8 @@
   "url": "https://kitsuneba.github.io/KitsuneBaTools/index.json",
   "githubRepos": [
     "KitsuneBa/AutoSceneBackup",
+    "KitsuneBa/AvatarOptimizationHelper",
+    "KitsuneBa/AvatarOptimizationManager",
     "KitsuneBa/ImportHighlighter"
   ]
 }
