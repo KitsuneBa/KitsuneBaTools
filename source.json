@@ -1,10 +1,12 @@
 {
-  "author": "KitsuneBa",
+  "author": {
+    "name": "KitsuneBa"
+  },
   "name": "KitsuneBa",
   "id": "com.kitsuneba.vpm",
   "url": "https://kitsuneba.github.io/KitsuneBaTools/index.json",
   "githubRepos": [
-    "https://github.com/KitsuneBa/AutoSceneBackup",
-    "https://github.com/KitsuneBa/ImportHighlighter"
+    "KitsuneBa/AutoSceneBackup",
+    "KitsuneBa/ImportHighlighter"
   ]
 }
