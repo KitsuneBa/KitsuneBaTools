@@ -9,7 +9,7 @@
     "KitsuneBa/AutoSceneBackup",
     "KitsuneBa/AvatarOptimizationHelper",
     "KitsuneBa/AvatarOptimizationManager",
-    "KitsuneBa/ImportHighlighter"
+    "KitsuneBa/ImportHighlighter",
     "KitsuneBa/ToggleAccelerator"
   ]
 }
