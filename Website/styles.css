@@ -1,5 +1,9 @@
 :root {
   color-scheme: light dark;
+  --accent-fill-rest: #7a3fa8;
+  --accent-fill-hover: #9051c4;
+  --accent-fill-active: #663399;
+  --accent-stroke-control-rest: #7a3fa8;
 }
 
 * {
@@ -16,6 +20,21 @@ body {
   justify-content: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   color: var(--neutral-foreground-rest);
+  background: radial-gradient(circle at 50% 10%, rgba(122, 63, 168, 0.12), transparent 75%);
+}
+
+fluent-button[appearance="accent"] {
+  --accent-fill-rest: #7a3fa8;
+  --accent-fill-hover: #9051c4;
+  --accent-fill-active: #663399;
+}
+
+a {
+  color: #a862db;
+}
+
+a:hover {
+  color: #c48df0;
 }
 
 .hidden {
