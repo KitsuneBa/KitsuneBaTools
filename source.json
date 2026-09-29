@@ -5,6 +5,7 @@
   "name": "KitsuneBa's Tools",
   "id": "com.kitsuneba.vpm",
   "url": "https://kitsuneba.github.io/KitsuneBaTools/index.json",
+  "description": "A collection of tools to make working on VRChat avatars easier.",
   "githubRepos": [
     "KitsuneBa/AutoSceneBackup",
     "KitsuneBa/AvatarOptimizationHelper",
@@ -12,5 +13,3 @@
     "KitsuneBa/ToggleAccelerator"
   ]
 }
-
-
