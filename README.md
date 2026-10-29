@@ -10,7 +10,7 @@ A collection of Unity tools designed to make working on VRChat avatars and proje
 ## Available Tools
 
 * **[AutoBackup](https://github.com/KitsuneBa/AutoBackup)** - Automatically creates timestamped scene backups with customizable cooldowns whenever you save.
-* **[AvatarOptimizationHelper](https://github.com/KitsuneBa/AvatarOptimizationHelper)** - Scans avatars for unoptimized components, meshes, and materials, helping you build optimized versions.
+* **[OptimizationHelper](https://github.com/KitsuneBa/OptimizationHelper)** - Scans avatars for unoptimized components, meshes, and materials, helping you build optimized versions.
 * **[ImportHighlighter](https://github.com/KitsuneBa/ImportHighlighter)** - Automatically highlights newly imported assets and folders in the Unity Project window.
 * **[ToggleAccelerator](https://github.com/KitsuneBa/ToggleAccelerator)** - Streamlines and speeds up the creation of avatar toggles and animations.
 

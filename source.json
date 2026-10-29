@@ -8,7 +8,7 @@
   "description": "A collection of tools to make working on VRChat avatars easier.",
   "githubRepos": [
     "KitsuneBa/AutoBackup",
-    "KitsuneBa/AvatarOptimizationHelper",
+    "KitsuneBa/OptimizationHelper",
     "KitsuneBa/ImportHighlighter",
     "KitsuneBa/ToggleAccelerator"
   ]
