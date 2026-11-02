@@ -2,7 +2,7 @@
 
 A collection of Unity tools designed to make working on VRChat avatars and projects faster, cleaner, and easier.
 
-> **Note:** It is recommended that you get to know me personally in order to gain a better understanding of what the tools do.  
+> **Note:** These tools were originally created for my personal workflow to make avatar building easier.  
 > *I am not responsible for any damage to your projects. Please use my tools with caution, as my main focus is not on developing tools but simply on making my own work easier. They may contain bugs or exhibit unintended behavior.*
 
 ---
