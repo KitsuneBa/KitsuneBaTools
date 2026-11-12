@@ -1,45 +1,44 @@
 # KitsuneBa's Tools
 
-A collection of Unity tools designed to make working on VRChat avatars and projects faster, cleaner, and easier.
+A collection of lightweight Unity utilities created to make building, optimizing, and organizing VRChat avatars faster, cleaner, and less tedious.
 
-> **Note:** These tools were originally created for my personal workflow to make avatar building easier.  
-> *I am not responsible for any damage to your projects. Please use my tools with caution, as my main focus is not on developing tools but simply on making my own work easier. They may contain bugs or exhibit unintended behavior.*
+These tools were built to streamline my own avatar workflows and are shared freely in case they help yours as well. As with any editor utilities, it is always recommended to test new tools on a backup or copy of your project.
 
 ---
 
 ## Available Tools
 
-* **[Auto Backup](https://github.com/KitsuneBa/AutoBackup)** ([Docs](https://kitsuneba.github.io/docs/auto-backup/))  
-  Automatically archives scenes with timestamped folders and configurable cooldowns whenever you save in Unity, protecting against crashes and accidental overwrites.
+- **[Toggle Accelerator](https://github.com/KitsuneBa/ToggleAccelerator)** ([Documentation](https://kitsuneba.github.io/docs/toggle-accelerator/))  
+  Quickly build avatar toggles, exclusive outfit sets, radial puppet sliders, material swaps, shader animations, and world freezes with smart gating and parameter compression without manual animator wiring.
 
-* **[Optimization Helper](https://github.com/KitsuneBa/OptimizationHelper)** ([Docs](https://kitsuneba.github.io/docs/optimization-helper/))  
-  Scans avatars for performance bottlenecks, unoptimized meshes, excessive material slots, and estimated texture VRAM footprint to help you create lighter versions.
+- **[Optimization Helper](https://github.com/KitsuneBa/OptimizationHelper)** ([Documentation](https://kitsuneba.github.io/docs/optimization-helper/))  
+  Inspect avatar performance scores, diagnose heavy FX layers, measure exact mesh and texture VRAM footprint, and optimize materials with one-click compression and cleanup utilities.
 
-* **[File Highlighter](https://github.com/KitsuneBa/FileHighlighter)** ([Docs](https://kitsuneba.github.io/docs/file-highlighter/))  
-  Combines real-time asset import tracking with native Project window folder coloring, custom accent stripes, and tag badges.
+- **[File Highlighter](https://github.com/KitsuneBa/FileHighlighter)** ([Documentation](https://kitsuneba.github.io/docs/file-highlighter/))  
+  Track newly imported, moved, or deleted assets in the Project window with smooth fade overlays, and customize project folders with native color presets, accent stripes, and text badges.
 
-* **[Toggle Accelerator](https://github.com/KitsuneBa/ToggleAccelerator)** ([Docs](https://kitsuneba.github.io/docs/toggle-accelerator/))  
-  Streamlines the creation of avatar toggles, menus, parameters, and animations for Modular Avatar and VRCFury with automated clip generation.
+- **[Auto Backup](https://github.com/KitsuneBa/AutoBackup)** ([Documentation](https://kitsuneba.github.io/docs/auto-backup/))  
+  Automatically archives timestamped scene copies whenever you save in Unity (`Ctrl + S`), organized cleanly by project, scene name, and date with configurable cooldown timers.
 
 ---
 
-## Documentation Site
+## Documentation
 
-Explore complete documentation, feature guides, and tutorials:  
+Full documentation, setup instructions, and feature guides are available at:  
 https://kitsuneba.github.io
 
 ---
 
-## How to Add to VCC (VRChat Creator Companion)
+## Installation via VCC or ALCOM
 
-Open the repository listing and click "Add to VCC":  
+Add the repository listing directly to your package manager:  
 https://kitsuneba.github.io/KitsuneBaTools/
 
 Or add it manually:
-1. Open **VRChat Creator Companion**.
-2. Go to **Settings** > **Packages** > **Add Repository**.
+1. Open **VRChat Creator Companion (VCC)** or **ALCOM**.
+2. Go to **Settings -> Packages -> Add Repository**.
 3. Paste the listing URL:
-   ```
+   ```text
    https://kitsuneba.github.io/KitsuneBaTools/index.json
    ```
 4. Click **Add**.
@@ -48,4 +47,4 @@ Or add it manually:
 
 ## License
 
-See [LICENSE.md](LICENSE.md) for copyright and terms of use.
+See [LICENSE.md](LICENSE.md) for terms of use.
